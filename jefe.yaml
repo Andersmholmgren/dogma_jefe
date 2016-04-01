@@ -2,4 +2,4 @@ name: dogma_jefe
 
 projects:
   dogma_source_analyzer: git@github.com:dogma-dart/dogma-source-analyzer.git
-  dogma_union_type: git@github.com:dogma-dart/dogma_union_type.git
+  dogma_union_type: git@github.com:dogma-dart/dogma-union-type.git
