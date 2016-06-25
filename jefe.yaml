@@ -3,3 +3,5 @@ name: dogma_jefe
 projects:
   dogma_source_analyzer: git@github.com:dogma-dart/dogma-source-analyzer.git
   dogma_union_type: git@github.com:dogma-dart/dogma-union-type.git
+  dogma-codegen: git@github.com:dogma-dart/dogma-codegen.git
+  dogma_convert: git@github.com:dogma-dart/dogma_convert.git
